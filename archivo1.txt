@@ -1,2 +1,2 @@
 # archivo1.txt
-Jarvy es el segundo alumno en usar este proyecto.
+Jarvy es el segundo alumno en usar este proyecto. Siendo esta una prueba de Entornos de desarrollo V2
