@@ -1,2 +1,2 @@
 # archivo2.txt
-Samuel es el tercer alumno en ver este proyecto
+Samuel es el tercer alumno en usar este proyecto
